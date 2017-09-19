@@ -1,0 +1,1 @@
+Programa para ver la diferencia entre usar una representacion Binaria y una representacion de Gray.
